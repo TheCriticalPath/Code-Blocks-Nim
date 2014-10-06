@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1412094827 source:c:\users\tclark\documents\code blocks\nim\nim\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
